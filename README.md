@@ -1,7 +1,7 @@
 # LiveProjectCodeSummary
 
 # Introduction
-While studying at the Tech Academy I had the oppurtunity to take part in a two week sprint, I worked in a team developing a full scale MVC Web Application in C#. Working on a legacy codebase was a great learning experience for cleaning up code, and adding requested features. Because much of the site had already been built, there were a multitude of [front end stories](#Front-End-Stories) and UX improvements that needed to be completed. I worked on one [major story](#Image-to-Byte-Array) in particular that involved both front end UI work and back end work with databases. I am very proud of. Over the two week sprint I also had the opportunity to hone my project management skills that I'm confident I will use again and again on future projects.
+While studying at the Tech Academy I had the oppurtunity to take part in a two week sprint, I worked in a team developing a full scale MVC Web Application in C#. Working on a legacy codebase was a great learning experience for cleaning up code, and adding requested features. Because much of the site had already been built, there were a multitude of [front end stories](#Front-End-Stories) and UX improvements that needed to be completed. I worked on one [major story](#Image-to-Byte-Array) in particular that involved both front end UI work and back end work with databases. I am very proud of. Over the two week sprint I also had the opportunity to hone my project management skills that I look forward to using on future projects.
 
 Below are descriptions of the stories I worked on, along with code snippets and navigation links. I also have some full code files in this repo for the larger functionalities I implemented.
 
