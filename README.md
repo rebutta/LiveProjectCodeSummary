@@ -16,10 +16,10 @@ Below are descriptions of the stories I worked on, along with code snippets and 
 
   ### Byte Array Conversion Method in Controller
   
-  I was tasked with adding the ability for a user to upload an image and have said image stored in the web applications database as a byte array and would then display   it back as an image on the corresponding pages (Index, Edit, Delete pages). To do this I first made a new method within the controller that accepted a posted file     and converted it to byte array.  
+  I was tasked with adding the ability for a user to upload an image and have said image stored in the web applications database as a byte array. I would then display   it back as an image on the corresponding pages (Index, Edit, Delete pages). To do this I first made a new method within the controller that accepted a posted file     and converted it to byte array.  
   
   
-  Taken from Blog Photos Controller
+  *From Blog Photos Controller*
   
       public byte[] BlogPhotoByte(HttpPostedFileBase postedFile)
       {
